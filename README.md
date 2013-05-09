@@ -1,6 +1,6 @@
 # jheys’s dotfiles
 
-Forked from [Mathias Bynens]'s dotfiles [http://mths.be/dotfiles]
+Forked from [Mathias Bynens](http://mathiasbynens.be/)'s dotfiles [http://mths.be/dotfiles](http://mths.be/dotfiles)
 So go there for the real info ;)
 
 ## Installation
@@ -24,5 +24,3 @@ Alternatively, to update while avoiding the confirmation prompt:
 ```bash
 set -- -f; source bootstrap.sh
 ```
-
-[Mathias Bynens](http://mathiasbynens.be/)
